@@ -1,0 +1,14 @@
+{
+  
+  "dart.completeFunctionCalls": false,
+
+  "coc.preferences.snippetSupport": false,  
+  "python.autoComplete.addBrackets": false,
+"coc.preferences.autoPair": true,
+  "flutter.autoFormat": true,           // Enable automatic formatting
+  "flutter.formatOnSave": true,         // Enable format on save
+  "flutter.completeFunctionCalls": true, // Automatically add parentheses on function calls
+  "flutter.showDocsOnHover": true ,// Show documentation on hover 
+ "coc.preferences.formatOnSaveFiletypes": ["dart"]
+  
+}
